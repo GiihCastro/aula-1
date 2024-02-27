@@ -1,0 +1,38 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+
+    text-align: center;
+
+    margin: 0;
+}
+
+#carla{
+    width: 348px;
+    
+    margin: 0;
+
+}
+
+#carla img{
+    margin-bottom: 72px;
+}
+
+h1 {
+    font-family: 'Inter', sans-serif;
+
+    font-size: 49px;
+
+    line-height: 56px;
+
+    font-weight: normal;
+}
+
+h1 span{
+    font-weight: bold;
+
+    color: #FF9900;
+}
+
+p {
+    color: #7D7987;
+}
